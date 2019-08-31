@@ -1,0 +1,11 @@
+[package]
+name = "ratpack"
+version = "0.1.0"
+authors = ["Peter <peter.wilkins@polecat.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+maplit = "1.0.2"
+itertools = "0.8.0"
